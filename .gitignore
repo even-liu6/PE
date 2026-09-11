@@ -1,0 +1,36 @@
+node_modules/
+dist/
+build/
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+# dependencies
+node_modules/
+
+# build
+dist/
+build/
+
+# mac
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# environment
+.env
+
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
+.sites-runtime
+.env*
+!.env.example
+artifacts
